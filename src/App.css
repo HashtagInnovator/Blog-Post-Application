@@ -1,0 +1,87 @@
+.nav{
+}
+
+.navbar-brand
+{
+    margin-left:50px;
+}
+
+
+.nav-item
+{
+    margin-left:20px;
+    margin-right:20px;
+}
+
+.login
+{
+    margin-left:970px;
+}
+
+
+
+
+.cards-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Display 3 cards per row */
+    gap: 20px; /* Adjust the gap between cards */
+  }
+  
+  .card {
+    border: 1px solid #ccc;
+    width:20rem;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  /* Additional styling for card elements can be added here */
+
+  .card-text
+  {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-top:40px;
+  }
+
+  .logged
+  {
+    margin-left:700px;
+  }
+
+
+/* Update the CSS to make input and select elements wider */
+
+
+
+.addPostCard
+{
+  justify-content: center;
+  display:flex;
+  align-items:center;
+  margin:0 auto;
+  width:700px;
+  box-shadow: 10px 10px 20px rgba(46, 175, 218, 0.5);
+  margin-top:30px;
+}
+
+.post-group
+{
+  width:200%;
+  align-items: center;
+  justify-content: center;
+  
+  display:flex;
+}
+
+.addPostHeader
+{
+  color:rgba(29, 125, 157, 0.5);
+  
+}
+
+
+
+
+
+
+  

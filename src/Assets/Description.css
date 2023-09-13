@@ -1,0 +1,83 @@
+/* Description.css */
+.description-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+  
+  .description-card {
+    width: 800px;
+    padding: 20px;
+    background-color: #fff;
+    animation: fadeIn 1s ease; /* Add fade-in animation */
+    position: relative; /* To make the shadow overlap with the card */
+    box-shadow: 10px 0 20px rgba(128, 227, 234, 0.848); /* Adjust the color and intensity as needed */
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  
+
+  .comment-card
+  {
+    width:700px;
+    animation: fadeIn 3s ease;
+    box-shadow: -10px 0 20px rgba(128, 227, 234, 0.848);
+  }
+
+  .comment-header
+  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom:50px;
+    color:rgb(237, 57, 174);
+  }
+
+  .comment-name
+  {
+    color:rgb(237, 57, 174);
+  }
+
+  .comment-role
+  {
+    color:rgba(49, 167, 176, 0.848);
+    margin-left:300px;
+    font: size 18px;
+  }
+
+
+  .post-info {
+    margin-bottom: 20px;
+  }
+  
+  .post-date,
+  .post-name,
+  .post-email {
+    font-size: 14px;
+    margin-bottom: 5px;
+    color: #888;
+  }
+  
+  .edit-post {
+    margin-bottom: 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .edit-post:hover {
+    background-color: #0056b3;
+  }
+  
+
+

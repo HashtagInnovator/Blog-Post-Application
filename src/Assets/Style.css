@@ -1,0 +1,14 @@
+.card-login-signup
+{
+    width: 500px;
+    height:450px;
+    color:rgba(43, 55, 232, 0.848);
+    padding: 20px;
+    background-color: #fff;
+    animation: fadeIn 1s ease; /* Add fade-in animation */
+    position: relative; /* To make the shadow overlap with the card */
+    box-shadow: 10px 0 20px rgba(128, 227, 234, 0.848); /* Adjust the color and intensity as needed */
+  }
+
+
+
