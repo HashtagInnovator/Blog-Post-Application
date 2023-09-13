@@ -1,0 +1,70 @@
+{
+  "posts": [
+    {
+      "title": "Chandrayaan-3 rover put to 'sleep', says ISRO",
+      "category": "astronomy",
+      "image": "https://images.moneycontrol.com/static-mcnews/2023/08/Chandrayaannew-1-770x433.jpg?impolicy=website&width=770&height=431",
+      "description": "Chandrayaan 3's rover 'Pragyaan' has completed its assignments on the lunar surface and set into sleep mode, ISRO said on Saturday.\n\nThe space agency's announcement came hours after its chief S Somanath said the lunar mission's rover and lander, 'Pragyaan' and 'Vikram', respectively were functioning well and they would be put to \"sleep\" soon to withstand the night on the Moon.\n\n\"The Rover completed its assignments. It is now safely parked and set into Sleep mode. APXS and LIBS payloads are turned off. Data from these payloads is transmitted to the Earth via the Lander,\" ISRO said in an update on social media platform X.\n\nAt present, the battery was fully charged and the solar panel oriented to receive the light at the next sunrise expected on September 22, 2023.\n\n\"The receiver is kept on. Hoping for a successful awakening for another set of assignments! Else, it will forever stay there as India's lunar ambassador,\" it said.\n\n\nSomanath had earlier in the day said the rover has moved almost 100 metres from the lander.\n\n\"And we are going to start the process of making both of them sleep in the coming one or two days because they have to withstand the night,\" he said.\n\n",
+      "created_at": "10/09/23",
+      "post_email": "admin@gmail.com",
+      "post_user": "Admin",
+      "id": 1
+    },
+    {
+      "title": "In Pics: Delhi's G20 Makeover - New Murals, Fountains, Statues",
+      "category": "global-news",
+      "image": "https://c.ndtvimg.com/2023-09/rp64hugg_g20-artwork-sondeep-shankar_625x300_04_September_23.jpg",
+      "description": "New Delhi: The 18th G20 Summit, to be held over the weekend, will welcome more than 25 heads of state and global institution leaders to the national capital.\nCivic agencies are in the final stages of readying the city to host the heads of state and foreign delegates for the summit from September 8 to 11.\nIn Pics: Delhi's G20 Makeover - New Murals, Fountains, Statues\nColourful panels cover the under construction area of a flyover near the airport.\n\n\nNew Delhi: The 18th G20 Summit, to be held over the weekend, will welcome more than 25 heads of state and global institution leaders to the national capital.\nCivic agencies are in the final stages of readying the city to host the heads of state and foreign delegates for the summit from September 8 to 11.\n\nPromoted\n\nListen to the latest songs, only on JioSaavn.com\n\nAs a part of the makeover, the civic agencies have decked up 66 arterial roads and stretches across the city ahead of the big event. Roadsides and roundabouts near the summit venues, hotels and other areas with a high footfall of G20-related visitors, have been adorned with street art and wall paintings\nThe beautification drives also include the installation of designer fountains, sculptures and flower pots along the roads. Fountains have been installed on important roads including the Janpath and Sansad Marg.",
+      "created_at": "10/09/23",
+      "post_email": "sakshi.ohri2@gmail.com",
+      "post_user": "Chetan",
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "password": "admin1234",
+      "role": "Admin"
+    },
+    {
+      "name": "Chetan",
+      "email": "sakshi.ohri2@gmail.com",
+      "password": "cdad",
+      "role": "User",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "postId": 1,
+      "Name": "Chetan",
+      "body": "Congratulations To all!",
+      "role": "User",
+      "id": 1
+    },
+    {
+      "postId": 2,
+      "Name": "Admin",
+      "body": "Great! Bharat is a new World Leader",
+      "role": "Admin",
+      "id": 2
+    },
+    {
+      "postId": 2,
+      "Name": "Chetan",
+      "body": "The Power of INDIA @Admin",
+      "role": "User",
+      "id": 3
+    },
+    {
+      "postId": 1,
+      "Name": "Mr. Hacker",
+      "body": "Next to Sun with Adithya L1",
+      "role": "Anonymous",
+      "id": 4
+    }
+  ]
+}
