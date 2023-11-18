@@ -39,9 +39,9 @@ This will launch the application on [http://localhost:3000](http://localhost:300
 
 To simulate a backend server, we will use JSON Server. Open a new terminal and run the following command:
 
-\`\`\`bash
+```bash
 json-server db.json --port 3010
-\`\`\`
+```
 
 This will start the JSON Server on [http://localhost:3010](http://localhost:3010) and serve your mock data.
 
