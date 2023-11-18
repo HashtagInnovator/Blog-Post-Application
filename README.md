@@ -14,7 +14,7 @@ Make sure you have Node.js and npm installed on your machine.
 
 1. Clone the repository:
 
-\`\`\`bash
+\`\`\`
 git clone https://github.com/your-username/react-blog-post.git
 cd react-blog-post
 \`\`\`
@@ -29,7 +29,7 @@ npm install
 
 Start the React development server:
 
-\`\`\`bash
+\`\`\`
 npm start
 \`\`\`
 
