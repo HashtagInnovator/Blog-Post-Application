@@ -14,24 +14,24 @@ Make sure you have Node.js and npm installed on your machine.
 
 1. Clone the repository:
 
-\`\`\`
+```
 git clone https://github.com/your-username/react-blog-post.git
 cd react-blog-post
-\`\`\`
+```
 
 2. Install dependencies:
 
-\`\`\`bash
+```bash
 npm install
-\`\`\`
+```
 
 ### Running the Application
 
 Start the React development server:
 
-\`\`\`
+```
 npm start
-\`\`\`
+```
 
 This will launch the application on [http://localhost:3000](http://localhost:3000).
 
@@ -39,7 +39,7 @@ This will launch the application on [http://localhost:3000](http://localhost:300
 
 To simulate a backend server, we will use JSON Server. Open a new terminal and run the following command:
 
-```bash json-server db.json --port 3010 ```
+``` json-server db.json --port 3010 ```
 
 This will start the JSON Server on [http://localhost:3010](http://localhost:3010) and serve your mock data.
 
